@@ -91,7 +91,7 @@ Stores information related to shipping modes.
 
 To get started with this project, you can clone the repository and follow the instructions provided in the `docs/` directory for setting up the database schema and loading the data.
 #npm install
-2topicsintegrate-microsoft-visual-studio-2024-08-20-17-16-35_qKCET5JM.mp4…
+Uploading 2topicsintegrate-microsoft-visual-studio-2024-08-20-17-16-35_qKCET5JM.mp4…
 ```bash
 git clone https://github.com/yourusername/sales-data-warehouse.git
 cd sales-data-warehouse
